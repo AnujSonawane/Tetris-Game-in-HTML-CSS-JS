@@ -1,0 +1,35 @@
+canvas {
+    display: block;
+    margin: auto;
+    border: 5px solid black;
+}
+
+#playbutton {
+    width: 100px;
+    height: 50px;
+    display: block;
+    margin: auto;
+    margin-top: -52.5px;
+    margin-right: 400px;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: white;
+    cursor: pointer;
+    border: 5px solid black;
+}
+
+#playbutton:hover {
+    width: 100px;
+    height: 50px;
+    display: block;
+    margin: auto;
+    margin-top: -52.5px;
+    margin-right: 400px;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: rgb(173, 255, 126);
+    cursor: pointer;
+    border: 5px solid rgb(0, 141, 24);
+}
